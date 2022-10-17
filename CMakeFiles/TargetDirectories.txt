@@ -1,0 +1,3 @@
+/home/peyman/c-example/assignment/CMakeFiles/rebuild_cache.dir
+/home/peyman/c-example/assignment/CMakeFiles/edit_cache.dir
+/home/peyman/c-example/assignment/CMakeFiles/tasks.dir

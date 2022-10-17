@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/peyman/c-example/assignment/src/main.cpp
+iostream
+-
+string
+-
+tasks.h
+/home/peyman/c-example/assignment/src/tasks.h
+
+/home/peyman/c-example/assignment/src/tasks.cpp
+iostream
+-
+string
+-
+tasks.h
+/home/peyman/c-example/assignment/src/tasks.h
+fstream
+-
+
+include/tasks.h
+

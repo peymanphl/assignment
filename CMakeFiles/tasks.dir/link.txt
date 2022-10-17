@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/tasks.dir/src/main.cpp.o CMakeFiles/tasks.dir/src/tasks.cpp.o  -o tasks 
